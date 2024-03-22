@@ -1,7 +1,7 @@
 # pythonsound
 pythonで音をならす。
-
-<a href="https://colab.research.google.com/github/yoidea/DTMF-generator/blob/main/DTMF_generator.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
+https://colab.research.google.com/github/Penguin-123456/pythonsound/blob/main/sound.ipynb
+<a href="https://colab.research.google.com/github/Penguin-123456/pythonsound/blob/main/sound.ipynb"><img data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667"></a>
 # **使い方**
 1.   初期設定の場所を▶を押すか`Ctrl + Enter`を押してください・
 2.   durationのところは秒数です。好きな秒数を選んでください。
